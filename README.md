@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **AETHER**
 - Website: [aetherz.xyz](https://aetherz.xyz)
 - GitHub: [@aetherzcode](https://github.com/aetherzcode)
-- Email: [your-email@example.com]
+- Email: [aetherscode@gmail.com](mailto:aetherscode@gmail.com)
 
 ## 🙏 Acknowledgments
 
@@ -129,7 +129,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   Made with ❤️ by <a href="https://aetherz.xyz">AETHER</a>
 </p>
-```
 
 This README.md includes:
 1. Header with logo and brief description
