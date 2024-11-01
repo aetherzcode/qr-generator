@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="#features">Features</a> •
-  <a href="#demo">Live Demo</a> •
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#technologies">Technologies</a> •
